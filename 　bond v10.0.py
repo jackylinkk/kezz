@@ -4529,4 +4529,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n程序运行出错: {e}")
         print("如果出现akshare相关错误, 请尝试: pip install akshare --upgrade")
+
         print("如果出现pandas_ta错误, 请安装: pip install pandas_ta")
